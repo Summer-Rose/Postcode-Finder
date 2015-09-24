@@ -32,7 +32,7 @@ form {
 	margin-bottom: 75px;
 }
 
-#success, #fail {
+#success, #fail, #error {
 	display: none;
 	margin-top: 20px;
 }
